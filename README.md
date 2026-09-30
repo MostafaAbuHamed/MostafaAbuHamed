@@ -15,7 +15,7 @@ secure, tested, and actually deployed.
 | ------- | ----------- | ----- |
 | [Infrastructure Reporting System](https://github.com/MostafaAbuHamed/InfrastructureReportingSystem/tree/Dev) | Citizens report damaged infrastructure, authorities assign workers, and admins manage everything. I built the authentication (JWT + refresh tokens, OTP, lockout) and handled deployment. | ASP.NET Core 9, EF Core, SQL Server |
 | [IRS AI](https://github.com/MostafaAbuHamed/IRS.AI) | Microservice that classifies damage photos and writes issue descriptions with a vision LLM. Auto-deployed with GitHub Actions. | Python, FastAPI, Docker |
-| [Abou-Taleb Education](https://aboutalebeducation.com) | Live multilingual consultancy platform: customer accounts, application tracking, and an admin console. I built the REST API. | TypeScript, Express, PostgreSQL, Prisma |
+| [Abou-Taleb Education](https://github.com/MahmoudAliElbadry/abouteleb-education) ([live](https://aboutalebeducation.com)) | Live multilingual consultancy platform: customer accounts, application tracking, and an admin console. I built the REST API (top contributor, 110+ commits). | TypeScript, Express, PostgreSQL, Prisma |
 | [Taskaty API](https://github.com/MostafaAbuHamed/taskaty-api) | Task management REST API in raw Node.js, with no frameworks, to learn how HTTP servers work underneath. | Node.js |
 | [C++ Foundations](https://github.com/MostafaAbuHamed/cpp-foundations) | Console bank system and a generic linked list, queue, and stack written from scratch. | C++ |
 

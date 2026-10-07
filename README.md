@@ -7,7 +7,7 @@ secure, tested, and actually deployed.
 - 🔐 Built the authentication system and the AI image-analysis service for my graduation project
   (graded *Excellent*)
 - 🌍 Built the REST API for a live client platform on Node.js, Express, and PostgreSQL
-- 📚 Currently learning: TypeScript in depth, React, PostgreSQL, and DevOps basics
+- 📚 Currently deepening: React, DevOps, and system design
 
 ### Featured projects
 

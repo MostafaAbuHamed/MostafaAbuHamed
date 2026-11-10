@@ -18,7 +18,7 @@ Hire me on [Mostaql](https://mostaql.com/u/Mostafa_0_Ahmed) or message me on
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | Healing Kingdom ([case study + demo](https://github.com/MostafaAbuHamed/healing-kingdom-case-study)) | Arabic cash-on-delivery e-commerce store with an admin dashboard: orders, stock, WhatsApp updates, and sales reports. Built end to end, spec-driven, with 270+ automated tests. | Next.js, TypeScript, PostgreSQL, Prisma, Docker |
-| Bakr Electric ([demo video](https://mostaql.com/portfolio/3905191)) | Offline Arabic desktop app for an electrical goods store: products, client accounts, and sales invoices. | Electron, React, SQLite, TypeScript |
+| Bakr Electric ([case study + demo](https://github.com/MostafaAbuHamed/bakr-electric-case-study)) | Offline Arabic Windows app for an electrical goods store: invoices, stock in multiple units, client accounts, printing, and automatic backups. 350+ automated tests, CI on Windows. | Electron, React, SQLite, TypeScript |
 
 ### Featured projects
 

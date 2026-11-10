@@ -13,12 +13,6 @@ secure, tested, and actually deployed.
 Hire me on [Mostaql](https://mostaql.com/u/Mostafa_0_Ahmed) or message me on
 [LinkedIn](https://linkedin.com/in/mostafa-abuhamed).
 
-### Live client project: [Abou-Taleb Education](https://aboutalebeducation.com)
-
-<p>
-  <a href="https://aboutalebeducation.com"><img src="assets/abouteleb-desktop.webp" alt="Abou-Taleb Education home page on desktop" height="350"></a>
-  <a href="https://aboutalebeducation.com"><img src="assets/abouteleb-mobile.webp" alt="Abou-Taleb Education home page on mobile" height="350"></a>
-</p>
 
 ### Featured projects
 

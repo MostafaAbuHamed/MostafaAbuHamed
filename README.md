@@ -36,8 +36,9 @@ Hire me on [Mostaql](https://mostaql.com/u/Mostafa_0_Ahmed) or message me on
 - **Backend:** ASP.NET Core, Entity Framework Core, Node.js, Express, Prisma, REST APIs, JWT
 - **Databases:** SQL Server, PostgreSQL
 - **Frontend:** Angular, HTML, CSS
-- **Testing:** xUnit, Moq, Vitest, Supertest
+- **Testing:** xUnit, Moq, Vitest, Supertest, Playwright
 - **Tools:** Git, GitHub Actions, Docker, Linux, Postman, Swagger
+- **Practices:** Spec-Driven Development (GitHub Spec Kit), CI/CD with GitHub Actions
 
 ### Contact
 
